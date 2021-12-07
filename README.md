@@ -1,4 +1,4 @@
-# HarduinLearnsDSP
+# HarduinLearnsDSP ENEE630
 
 Optimised TX RX system for BPSK
 
